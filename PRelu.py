@@ -10,3 +10,5 @@ def gen_prelu_op(input_shape,slope):
 gen_prelu_op(input_shape = (1,3,224,224), slope = 0.1)
 
 
+
+

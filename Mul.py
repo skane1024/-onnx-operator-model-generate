@@ -28,5 +28,7 @@ def gen_Mul_op(input_shape1, input_shape2,constant=False):
 
 
 
-gen_Mul_op((1,2,3),(3,),False)
-gen_Mul_op((1,2,3),(3,),True)
+# gen_Mul_op((1,2,3),(3,),False)
+# gen_Mul_op((1,2,3),(3,),True)
+
+
